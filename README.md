@@ -2,7 +2,7 @@
 
 Sistema de monitoramento e diagnóstico de falhas em motores elétricos baseado em sinais de vibração. Coleta dados de três acelerômetros via ESP32, extrai características no domínio do tempo e da frequência e classifica o estado do motor em tempo real com um classificador Random Forest.
 
-Desenvolvido como atividade da disciplina de Egenharia de Manutenção na **Universidade Federal de Pernambuco — Centro Acadêmico do Agreste (UFPE/CAA)**, sob orientação do **Prof. Dr. Thalles Vitelli Garcez** ([Lattes](http://lattes.cnpq.br/1830132039422949)) — docente do Departamento de Engenharia de Produção e coordenador do Programa de Pós-Graduação em Engenharia de Produção (PPGEP/CAA).
+Desenvolvido como atividade da disciplina de Engenharia de Manutenção na **Universidade Federal de Pernambuco — Centro Acadêmico do Agreste (UFPE/CAA)**, sob orientação do **Prof. Dr. Thalles Vitelli Garcez** ([Lattes](http://lattes.cnpq.br/1830132039422949)) — docente do Departamento de Engenharia de Produção e coordenador do Programa de Pós-Graduação em Engenharia de Produção (PPGEP/CAA).
 
 ---
 
